@@ -40,6 +40,8 @@ class SyncSourceFeed implements ShouldQueue
             }
 
             ProcessFeedItem::dispatch($this->source, $item);
+
+            //dispatch
         }
 
         $this->source->updateLastCheckedAt();

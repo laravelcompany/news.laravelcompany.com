@@ -34,7 +34,7 @@ class CreateMaterial
                     'image_url' => $materialData->imageUrl,
                 ]);
 
-            if (filled($material->image_url) && $material->isArticle()) {
+            if (filled($material->image_url)) {
                 FetchAndUpdateMaterialImage::dispatch($material)->afterCommit();
             }
 

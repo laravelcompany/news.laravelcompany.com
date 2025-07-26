@@ -16,14 +16,14 @@ class PodcastMaterialData extends MaterialData
 
         return new static(
             title: $item->get_title(),
+            url: $item->get_enclosure()?->get_link() ?? $item->get_link(),
+            publishedAt: Carbon::parse($item->get_date())->timezone(config('app.timezone')),
             description: $item->get_description(),
             body: $item->get_content(),
             author: static::getItunesTags($item, 'author')[0]['data'] ?? $item->get_author()?->get_name(),
-            url: $item->get_enclosure()?->get_link() ?? $item->get_link(),
-            publishedAt: Carbon::parse($item->get_date())->timezone(config('app.timezone')),
-            feedId: $item->get_id(true),
             imageUrl: static::getItunesTags($item, 'image')[0]['attribs']['']['href'] ?? $item->get_enclosure()?->get_thumbnail(),
-            duration: is_numeric($duration) ? (int) $duration : null
+            duration: is_numeric($duration) ? (int) $duration : null,
+            feedId: $item->get_id(true)
         );
     }
 
