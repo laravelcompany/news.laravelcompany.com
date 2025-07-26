@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+
+  news.laravelcompany.com:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        WWWUSER: '${WWWUSER:-1000}'
+        WWWGROUP: '${WWWGROUP:-1001}'
+    image: izdrail/news.laravelcompany.com:latest
+    container_name: news.laravelcompany.com
+    extra_hosts:
+      - 'host.docker.internal:host-gateway'
+    ports:
+      - '1600:1600'
+      - '1601:1601'
+      - '2114:2114'
+      - '5173:5173'
+    environment:
+      WWWUSER: '${WWWUSER}'
+      WWWGROUP: '${WWWGROUP}'
+      LARAVEL_SAIL: 1
+      IGNITION_LOCAL_SITES_PATH: '${PWD}'
+    volumes:
+      - '.:/var/www'
+    networks:
+      - sail
+volumes:
+  llm-data:
+  mysql_data:
+  ollama_data:
+
+networks:
+  sail:
+    driver: bridge

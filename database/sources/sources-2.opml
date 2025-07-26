@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>sáb nov 30 11:08:10 2024</dateModified>
+    </head>
+    <body>
+        <outline text="News">
+            <outline text="News - Sports">
+                <outline text="Flamengo – Notícias e jogo do Flamengo – Coluna do Fla" type="rss" htmlUrl="https://colunadofla.com/" xmlUrl="https://colunadofla.com/feed/"/>
+                <outline text="MMA Fighting - All Posts" type="rss" htmlUrl="https://www.mmafighting.com/" xmlUrl="https://www.mmafighting.com/rss/current.xml"/>
+                <outline text="MMA News" type="rss" htmlUrl="https://www.mmanews.com" xmlUrl="https://www.mmanews.com/feed/"/>
+                <outline text="Battle of the Nations" type="rss" htmlUrl="https://botn.info" xmlUrl="https://botn.info/feed/"/>
+                <outline text="Esporte News Mundo" type="rss" htmlUrl="https://esportenewsmundo.com.br" xmlUrl="https://esportenewsmundo.com.br/feed/"/>
+                <outline text="Inside Archery" type="rss" htmlUrl="https://insidearchery.com" xmlUrl="https://insidearchery.com/feed/"/>
+            </outline>
+            <outline text="News - Games">
+                <outline text="Indie Games Plus" type="rss" htmlUrl="https://indiegamesplus.com/" xmlUrl="https://indiegamesplus.com/feed"/>
+                <outline text="Steam RSS News Feed" type="rss" htmlUrl="http://www.steampowered.com/" xmlUrl="https://store.steampowered.com/feeds/news.xml"/>
+            </outline>
+            <outline text="News - Culture and Politics">
+                <outline text="Kirksville Today" type="rss" htmlUrl="https://www.kirksvilletoday.com" xmlUrl="http://www.kirksvilletoday.com/feed/"/>
+                <outline text="DISSENT WATCH" type="rss" htmlUrl="https://dissentwatch.com" xmlUrl="https://dissentwatch.com/feed/"/>
+                <outline text="American Free Press" type="rss" htmlUrl="https://americanfreepress.net" xmlUrl="https://americanfreepress.net/feed/"/>
+                <outline text="American Renaissance" type="rss" htmlUrl="https://www.amren.com/" xmlUrl="https://www.amren.com/feed/"/>
+                <outline text="Red Ice News" type="rss" htmlUrl="https://redice.tv/rss/news" xmlUrl="https://redice.tv/rss/news"/>
+                <outline text="National File" type="rss" htmlUrl="https://nationalfile.com/" xmlUrl="https://nationalfile.com/feed/"/>
+                <outline text="Trad News" type="rss" htmlUrl="https://trad-news.blogspot.com/" xmlUrl="https://trad-news.blogspot.com/feeds/posts/default?alt=rss"/>
+                <outline text="Occidental Dissent" type="rss" htmlUrl="https://occidentaldissent.com" xmlUrl="https://occidentaldissent.com/feed/"/>
+                <outline text="National Justice" type="rss" htmlUrl="https://national-justice.com/" xmlUrl="https://national-justice.com/feeds/feedly"/>
+            </outline>
+            <outline text="News - Geopolitics and War">
+                <outline text="South Front" type="rss" htmlUrl="https://southfront.org" xmlUrl="https://southfront.org/rss"/>
+                <outline text="Military Times" type="rss" htmlUrl="https://www.militarytimes.com" xmlUrl="https://www.militarytimes.com/arc/outboundfeeds/rss/category/flashpoints/?outputType=xml"/>
+                <outline text="Militant Wire" type="rss" htmlUrl="https://www.militantwire.com" xmlUrl="https://www.militantwire.com/feed"/>
+            </outline>
+            <outline text="News - South America">
+                <outline text="Nova Resistência" type="rss" htmlUrl="https://novaresistencia.org" xmlUrl="https://novaresistencia.org/feed/"/>
+            </outline>
+            <outline text="News - Finance">
+                <outline text="ZeroHedge News" type="rss" htmlUrl="https://www.zerohedge.com" xmlUrl="https://feeds.feedburner.com/zerohedge/feed"/>
+                <outline text="Monero" type="rss" htmlUrl="https://www.getmonero.org/" xmlUrl="https://www.getmonero.org/feed.xml"/>
+                <outline text="News – Blokt – Privacy, Tech, Bitcoin, Blockchain &amp; Cryptocurrency" type="rss" htmlUrl="https://blokt.com" xmlUrl="https://blokt.com/news/feed"/>
+            </outline>
+            <outline text="News - Realeases">
+                <outline text="BOOMERANG - News" type="rss" htmlUrl="https://b00merang.weebly.com/news" xmlUrl="https://b00merang.weebly.com/1/feed"/>
+                <outline text="Kodi News" type="rss" htmlUrl="https://kodi.tv" xmlUrl="http://feeds.kodi.tv/xbmc"/>
+                <outline text="Arch Linux: Recent news updates" type="rss" htmlUrl="https://archlinux.org/news/" xmlUrl="https://archlinux.org/feeds/news/"/>
+                <outline text="Announcements - Manjaro Linux Forum" type="rss" htmlUrl="https://forum.manjaro.org/c/announcements/11" xmlUrl="https://forum.manjaro.org/c/announcements/11.rss"/>
+                <outline text="Tails - Notícias" type="rss" htmlUrl="https://tails.net/news/index.en.html" xmlUrl="https://tails.boum.org/news/index.pt.rss"/>
+                <outline text="Release notes from monero-gui" type="rss" htmlUrl="https://github.com/monero-project/monero-gui/releases" xmlUrl="https://github.com/monero-project/monero-gui/releases.atom"/>
+                <outline text="Release notes from batocera.linux" type="rss" htmlUrl="https://github.com/batocera-linux/batocera.linux/releases" xmlUrl="https://github.com/batocera-linux/batocera.linux/releases.atom"/>
+                <outline text="EmulationStation" type="rss" htmlUrl="https://emulationstation.org/news" xmlUrl="https://emulationstation.org/news/?feed=rss2"/>
+                <outline text="GIMP" type="rss" htmlUrl="https://www.gimp.org/" xmlUrl="https://www.gimp.org/feeds/rss.xml"/>
+                <outline text="PortableApps.com" type="rss" htmlUrl="https://portableapps.com" xmlUrl="http://portableapps.com/feeds/general"/>
+            </outline>
+            <outline text="News - Technology and Opsec">
+                <outline text="The Software Freedom Conservancy Blog." type="rss" htmlUrl="https://sfconservancy.org/blog/" xmlUrl="https://sfconservancy.org/feeds/blog/"/>
+                <outline text="Planet GNU" type="rss" htmlUrl="https://planet.gnu.org/" xmlUrl="https://planet.gnu.org/rss20.xml"/>
+                <outline text="Software Freedom Conservancy News" type="rss" htmlUrl="https://sfconservancy.org/news/" xmlUrl="https://sfconservancy.org/feeds/news/"/>
+                <outline text="FSF News" type="rss" htmlUrl="http://www.fsf.org/news/aggregator" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
+                <outline text="suckless.org news" type="rss" htmlUrl="https://www.suckless.org" xmlUrl="https://suckless.org/atom.xml"/>
+                <outline text="HTML Online" type="rss" htmlUrl="https://html-online.com/articles/" xmlUrl="https://html-online.com/articles/feed/"/>
+                <outline text="Linux Journal - The Original Magazine of the Linux Community" type="rss" htmlUrl="https://www.linuxjournal.com/" xmlUrl="https://www.linuxjournal.com/node/feed"/>
+                <outline text="MediaGoblin" type="rss" htmlUrl="https://mediagoblin.org/" xmlUrl="https://mediagoblin.org/news/index.xml"/>
+                <outline text="Schneier on Security" type="rss" htmlUrl="https://www.schneier.com/" xmlUrl="https://www.schneier.com/feed/"/>
+                <outline text="The Hacker News" type="rss" htmlUrl="https://thehackernews.com" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
+                <outline text="It's FOSS" type="rss" htmlUrl="https://itsfoss.com/" xmlUrl="https://itsfoss.com/feed/"/>
+                <outline text="Viva o Linux - Forum" type="rss" htmlUrl="http://www.vivaolinux.com.br/" xmlUrl="https://feeds.feedburner.com/forum-vivaolinux?format=xml"/>
+                <outline text="Newest | OpenHardware.io" type="rss" htmlUrl="https://www.openhardware.io/" xmlUrl="https://www.openhardware.io/list?rss=1&amp;view=newest"/>
+            </outline>
+        </outline>
+        <outline text="Social Networks">
+            <outline text="Social Networks - Twitter">
+                <outline text="Dr West Bestern 🛡️ / @western_bester" type="rss" htmlUrl="https://nitter.net/western_bester" xmlUrl="https://nitter.net/western_bester/rss"/>
+                <outline text="Latino Bodybuilders for Hellenism / @LatinxPutler" type="rss" htmlUrl="https://nitter.net/LatinxPutler" xmlUrl="https://nitter.net/LatinxPutler/rss"/>
+                <outline text="RAW EGG NATIONALIST / @Babygravy9" type="rss" htmlUrl="https://nitter.net/Babygravy9" xmlUrl="https://nitter.net/Babygravy9/rss"/>
+            </outline>
+            <outline text="Social Networks - Telegram">
+                <outline text="Corpse World Monologues - Telegram Channel" type="rss" htmlUrl="https://t.me/s/grapesofthorns" xmlUrl="https://rsshub.app/telegram/channel/grapesofthorns"/>
+                <outline text="Bellum Acta - Intel, Urgent News and Archives - Telegram Channel" type="rss" htmlUrl="https://t.me/s/BellumActaNews" xmlUrl="https://rsshub.app/telegram/channel/BellumActaNews"/>
+                <outline text="z THE ECO CHRISTOFASCIFIST z - Telegram Channel" type="rss" htmlUrl="https://t.me/s/catholicwigger" xmlUrl="https://rsshub.app/telegram/channel/catholicwigger"/>
+                <outline text="Christian Aryanism — Fides et Gens, Inseperable. - Telegram Channel" type="rss" htmlUrl="https://t.me/s/ChristianAryanism" xmlUrl="https://rsshub.app/telegram/channel/ChristianAryanism"/>
+            </outline>
+        </outline>
+        <outline text="Blogs">
+            <outline text="Blogs - Politics">
+                <outline text="The Alternative Hypothesis" type="rss" htmlUrl="https://thealternativehypothesis.org" xmlUrl="http://thealternativehypothesis.org/index.php/feed/"/>
+                <outline text="Counter-Currents" type="rss" htmlUrl="https://counter-currents.com" xmlUrl="https://counter-currents.com/feed/"/>
+                <outline text="William M. Briggs" type="rss" htmlUrl="https://www.wmbriggs.com" xmlUrl="https://www.wmbriggs.com/feed/"/>
+                <outline text="The Z Blog" type="rss" htmlUrl="https://thezman.com/wordpress" xmlUrl="https://thezman.com/wordpress/?feed=rss2"/>
+                <outline text="Darwinian Reactionary" type="rss" htmlUrl="https://darwinianreactionary.wordpress.com" xmlUrl="https://darwinianreactionary.wordpress.com/feed/"/>
+                <outline text="Dividuals" type="rss" htmlUrl="https://dividuals.wordpress.com" xmlUrl="https://dividuals.wordpress.com/feed/"/>
+                <outline text="Anomaly UK" type="rss" htmlUrl="https://www.anomalyblog.co.uk" xmlUrl="https://blog.anomalyuk.party/feed/"/>
+                <outline text="Carlsbad 1819" type="rss" htmlUrl="https://carlsbad1819.wordpress.com" xmlUrl="https://carlsbad1819.wordpress.com/feed/"/>
+                <outline text="ACCALE Nacionalismo" type="rss" htmlUrl="https://accale.org" xmlUrl="https://accale.org/feed/"/>
+                <outline text="Fisted by Foucault" type="rss" htmlUrl="https://niccolo.substack.com" xmlUrl="https://niccolo.substack.com/feed"/>
+                <outline text="The Occidental Observer" type="rss" htmlUrl="https://www.theoccidentalobserver.net" xmlUrl="https://www.theoccidentalobserver.net/feed/"/>
+                <outline text="History Reviewed" type="rss" htmlUrl="https://historyreviewed.best" xmlUrl="http://historyreviewed.best/index.php/feed/"/>
+                <outline text="AFFIRMATIVE RIGHT" type="rss" htmlUrl="http://affirmativeright.blogspot.com/" xmlUrl="https://feeds.feedburner.com/AffirmativeRight"/>
+                <outline text="Vanguard News Network" type="rss" htmlUrl="http://www.vanguardnewsnetwork.com" xmlUrl="http://www.vanguardnewsnetwork.com/feed/"/>
+                <outline text="New Frontier" type="rss" htmlUrl="https://newfrontierusa.org" xmlUrl="https://newfrontierusa.org/feed/"/>
+                <outline text="The Creativity Alliance" type="rss" htmlUrl="https://creativityalliance.com/" xmlUrl="https://creativityalliance.com/feed/"/>
+            </outline>
+            <outline text="Blogs - Health">
+                <outline text="Herculean Strength" type="rss" htmlUrl="https://herculeanstrength.com" xmlUrl="https://herculeanstrength.com/feed/"/>
+            </outline>
+            <outline text="Blogs - Technology">
+                <outline text="Can I Use updates" type="rss" htmlUrl="https://caniuse.com/feed" xmlUrl="http://feeds.feedburner.com/WhenCanIUse"/>
+                <outline text="Luke Smith" type="rss" htmlUrl="https://lukesmith.xyz/" xmlUrl="https://lukesmith.xyz/rss.xml"/>
+                <outline text="Danluu" type="rss" htmlUrl="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml"/>
+                <outline text="emhmki.org RSS feed" type="rss" htmlUrl="http://emhmki.org/" xmlUrl="https://web.emhmki.org/feed/index.html"/>
+                <outline text="CSS-Tricks" type="rss" htmlUrl="https://css-tricks.com" xmlUrl="https://css-tricks.com/feed/"/>
+                <outline text="CSS Working Group Blog" type="rss" htmlUrl="https://www.w3.org/blog/CSS" xmlUrl="http://www.w3.org/blog/CSS/feed/atom/"/>
+                <outline text="Planet WebKit" type="rss" htmlUrl="https://planet.webkit.org/" xmlUrl="http://planet.webkit.org/atom.xml"/>
+                <outline text="Opensource.com" type="rss" htmlUrl="https://opensource.com/" xmlUrl="https://opensource.com/feed"/>
+                <outline text="Privacy Guides: Encryption, Tracking, Security and Privacy Tools" type="rss" htmlUrl="https://www.privacytools.io/guides/" xmlUrl="https://www.privacytools.io/guides/rss.xml"/>
+                <outline text="Knowledge Base" type="rss" htmlUrl="https://bgstack15.ddns.net/blog/" xmlUrl="https://bgstack15.ddns.net/blog/rss.xml"/>
+                <outline text="Blogs - AdminLTE.IO" type="rss" htmlUrl="https://adminlte.io/blog/" xmlUrl="https://adminlte.io/blog/feed/"/>
+            </outline>
+            <outline text="Blogs - Archeofuturism +or-">
+                <outline text="Aurora de Ferro" type="rss" htmlUrl="https://auroradeferro.org" xmlUrl="https://auroradeferro.org/f.rss"/>
+                <outline text="Aureus Press" type="rss" htmlUrl="https://www.aureus-press.com" xmlUrl="https://www.aureus-press.com/feed/"/>
+                <outline text="Palladium" type="rss" htmlUrl="https://www.palladiummag.com/" xmlUrl="https://palladiummag.com/feed/"/>
+            </outline>
+            <outline text="Blogs - Religion and Spirituality">
+                <outline text="First Things RSS Feed - First Thoughts" type="rss" htmlUrl="https://www.firstthings.com/blogs/firstthoughts" xmlUrl="https://www.firstthings.com/rss/blogs/firstthoughts"/>
+                <outline text="First Things RSS Feed - Web Exclusives | Daily Writings From Our Top Writers | First Things" type="rss" htmlUrl="https://www.firstthings.com/web-exclusives" xmlUrl="https://www.firstthings.com/rss/web-exclusives"/>
+                <outline text="Coptic Magical Papyri" type="rss" htmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de" xmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/feed/"/>
+                <outline text="Leithart" type="rss" htmlUrl="https://www.patheos.com/blogs/leithart" xmlUrl="https://www.patheos.com/blogs/leithart/feed/?type=blogs&amp;permalink=leithart"/>
+                <outline text="The Social Pathologist" type="rss" htmlUrl="https://socialpathology.blogspot.com/" xmlUrl="https://socialpathology.blogspot.com/feeds/posts/default?alt=rss"/>
+                <outline text="AntiDem" type="rss" htmlUrl="https://antidem.wordpress.com" xmlUrl="https://antidem.wordpress.com/feed/"/>
+                <outline text="Christians for Truth" type="rss" htmlUrl="https://christiansfortruth.com/" xmlUrl="https://christiansfortruth.com/feed/"/>
+            </outline>
+            <outline text="Blogs - Culture">
+                <outline text="Excuse The Blood" type="rss" htmlUrl="https://excusetheblood.wordpress.com" xmlUrl="https://excusetheblood.wordpress.com/feed/"/>
+                <outline text="Excuse The Blood's Newsletter" type="rss" htmlUrl="https://excusetheblood.substack.com" xmlUrl="https://excusetheblood.substack.com/feed"/>
+                <outline text="Henry Dampier" type="rss" htmlUrl="http://www.henrydampier.com/" xmlUrl="http://www.henrydampier.com/feed/"/>
+                <outline text="Nexus Newsfeed" type="rss" htmlUrl="https://nexusnewsfeed.com/" xmlUrl="https://nexusnewsfeed.com/?view=rss"/>
+                <outline text="Isegoria" type="rss" htmlUrl="https://www.isegoria.net" xmlUrl="https://www.isegoria.net/feed/"/>
+                <outline text="Frazetta Girls - Blog" type="rss" htmlUrl="https://www.frazettagirls.com/blogs/news" xmlUrl="https://www.frazettagirls.com/blogs/news.atom"/>
+            </outline>
+            <outline text="Blogs - Architecture and Urbanism">
+                <outline text="Smart Cities Dive - Latest News" type="rss" htmlUrl="https://www.smartcitiesdive.com/news/" xmlUrl="https://www.smartcitiesdive.com/feeds/news/"/>
+                <outline text="Common Edge" type="rss" htmlUrl="https://commonedge.org" xmlUrl="https://commonedge.org/feed/"/>
+            </outline>
+        </outline>
+        <outline text="Podcasts">
+            <outline text="Podcasts - Music">
+                <outline text="Rádiofobia Classics" type="rss" htmlUrl="https://radiofobia.com.br/podcast/category/podcast/classics/" xmlUrl="https://www.omnycontent.com/d/playlist/0009b167-0e82-414e-91eb-aae8011fc66d/6e4f7160-4d3f-45af-830d-ac610169e90a/94c2dc7d-c8e2-4f15-9352-ac61016abe3e/podcast.rss"/>
+                <outline text="Brazuca Sounds" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/brazucasounds" xmlUrl="https://anchor.fm/s/47fabbc0/podcast/rss"/>
+            </outline>
+            <outline text="Podcasts - Religion and Spirituality">
+                <outline text="Coptic Magical Papyri Podcast" type="rss" htmlUrl="http://www.coptic-magic.phil.uni-wuerzburg.de/" xmlUrl="https://anchor.fm/s/2139d9a8/podcast/rss"/>
+                <outline text="Bronze Podcast on Odysee" type="rss" htmlUrl="https://odysee.com/@BronzePodcast:f" xmlUrl="https://odysee.com/$/rss/@BronzePodcast:f"/>
+                <outline text="PioCast" type="rss" htmlUrl="https://youtube.com/channel/UCXFinVKqdTzqghS25mtzHfg" xmlUrl="https://anchor.fm/s/368e692c/podcast/rss"/>
+            </outline>
+            <outline text="Podcasts - Variedades">
+                <outline text="Todo Dia Podcast" type="rss" htmlUrl="http://www.mercadodonegro.com.br" xmlUrl="https://anchor.fm/s/5a572fc4/podcast/rss"/>
+                <outline text="Nova Vertente" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/nova-vertente" xmlUrl="https://anchor.fm/s/30ee142c/podcast/rss"/>
+                <outline text="The Paranormies" type="rss" htmlUrl="https://rss.com/podcasts/the-paranormies" xmlUrl="https://media.rss.com/the-paranormies/feed.xml"/>
+            </outline>
+            <outline text="Podcasts - History, Philosophy, etc.">
+                <outline text="Dan Carlin's Hardcore History" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml"/>
+                <outline text="Dan Carlin's Hardcore History: Addendum" type="rss" htmlUrl="http://dchhaddendum.libsyn.com/website" xmlUrl="https://dchhaddendum.libsyn.com/rss"/>
+                <outline text="Literature and History" type="rss" htmlUrl="http://literatureandhistory.com" xmlUrl="https://literatureandhistory.libsyn.com/rss"/>
+                <outline text="Not Related! A Big-Braned Podcast" type="rss" htmlUrl="https://notrelated.xyz" xmlUrl="https://notrelated.xyz/rss"/>
+            </outline>
+            <outline text="Podcasts - Comedy">
+                <outline text="PavanCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/pavancast" xmlUrl="https://anchor.fm/s/2213b13c/podcast/rss"/>
+                <outline text="Plantão Inútil" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/plantaoinutil" xmlUrl="https://anchor.fm/s/700a82a8/podcast/rss"/>
+                <outline text="Parabellum" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/parabellum" xmlUrl="https://anchor.fm/s/6d5d0134/podcast/rss"/>
+                <outline text="Loen Talks" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/loentalks" xmlUrl="https://anchor.fm/s/13a4f930/podcast/rss"/>
+            </outline>
+            <outline text="Podcasts - Politics">
+                <outline text="Russians With Attitude" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/russians-with-attitudes" xmlUrl="https://anchor.fm/s/440483e8/podcast/rss"/>
+                <outline text="Pisando em Brasa" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/nova-resistencia" xmlUrl="https://anchor.fm/s/2847aab8/podcast/rss"/>
+                <outline text="Radio 3Fourteen" type="rss" htmlUrl="https://redice.tv/radio-3fourteen" xmlUrl="https://redice.tv/rss/radio-3fourteen"/>
+                <outline text="Common Sense with Dan Carlin" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml"/>
+                <outline text="Me Ne Frego Podcast" type="rss" htmlUrl="https://menefregopodcast2.blogspot.com/" xmlUrl="https://feeds.feedburner.com/MeNeFregoPodcast"/>
+                <outline text="Café Nacional" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/cafenacional" xmlUrl="https://anchor.fm/s/3e36d3f8/podcast/rss"/>
+                <outline text="Silk And Steel Podcast" type="rss" htmlUrl="https://silknsteel.podbean.com" xmlUrl="https://feed.podbean.com/silknsteel/feed.xml"/>
+            </outline>
+            <outline text="Podcasts - News">
+                <outline text="S2 Underground" type="rss" htmlUrl="https://www.buzzsprout.com/868255" xmlUrl="https://feeds.buzzsprout.com/868255.rss"/>
+                <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
+            </outline>
+            <outline text="Blood $atellite" type="rss" htmlUrl="https://blood-atellite-729421.zencast.website" xmlUrl="https://media.zencast.fm/blood-atellite-729421/rss"/>
+            <outline text="The WeebCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/the-weebcast" xmlUrl="https://anchor.fm/s/2b00eb34/podcast/rss"/>
+            <outline text="Blood $atellite" type="rss" htmlUrl="https://bloodsatellite.ca/" xmlUrl="https://bloodsatellite.ca/feed/"/>
+        </outline>
+        <outline text="Videos">
+            <outline text="Videos - Archives">
+                <outline text="Time Train" type="rss" htmlUrl="https://www.youtube.com/channel/UCHvdjp-zVFwXM7VJRk5f6iA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHvdjp-zVFwXM7VJRk5f6iA"/>
+                <outline text="pdmovies" type="rss" htmlUrl="https://api.bitchute.com/channel/pdmovies/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/pdmovies"/>
+            </outline>
+            <outline text="Videos - Psychedelics">
+                <outline text="Your Mate Tom" type="rss" htmlUrl="https://www.youtube.com/channel/UCXSF1F_RFRUVNXX4QmB6vmw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXSF1F_RFRUVNXX4QmB6vmw"/>
+                <outline text="Psyched Substance" type="rss" htmlUrl="https://www.youtube.com/channel/UCn8V3KNSgDr1Dai77_y8JrQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn8V3KNSgDr1Dai77_y8JrQ"/>
+                <outline text="Josie Kins" type="rss" htmlUrl="https://www.youtube.com/channel/UCUJnH-MsFgAgvCVHplxqJOQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUJnH-MsFgAgvCVHplxqJOQ"/>
+            </outline>
+            <outline text="Videos - Games">
+                <outline text="LGR" type="rss" htmlUrl="https://www.youtube.com/channel/UCLx053rWZxCiYWsBETgdKrQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ"/>
+                <outline text="Diogenes The Gamer Cynic" type="rss" htmlUrl="https://api.bitchute.com/channel/diogenesthegamercynic/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/diogenesthegamercynic"/>
+                <outline text="PatricianTV" type="rss" htmlUrl="https://www.youtube.com/channel/UCnw3aIEiz60S6O3XcztCVkQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnw3aIEiz60S6O3XcztCVkQ"/>
+                <outline text="GST Channel" type="rss" htmlUrl="https://www.youtube.com/channel/UCoQsV1On1wnbGn705cf_9Gw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoQsV1On1wnbGn705cf_9Gw"/>
+                <outline text="Synthetic Man" type="rss" htmlUrl="https://www.youtube.com/channel/UCo8HnWzRvJQTsYNF1Sfhxvw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo8HnWzRvJQTsYNF1Sfhxvw"/>
+                <outline text="Storymode" type="rss" htmlUrl="https://www.youtube.com/channel/UCGeIjGngCkErevSNHdZYD5Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGeIjGngCkErevSNHdZYD5Q"/>
+                <outline text="AndyPants Gaming" type="rss" htmlUrl="https://www.youtube.com/channel/UCoOq2zscvS3lkzoxlw1FdUw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoOq2zscvS3lkzoxlw1FdUw"/>
+            </outline>
+            <outline text="Videos - Culture">
+                <outline text="Kodhak" type="rss" htmlUrl="https://www.youtube.com/channel/UCsvFdTNmGzIIcLwQELw4Lxw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsvFdTNmGzIIcLwQELw4Lxw"/>
+                <outline text="Fritz Imperial" type="rss" htmlUrl="https://www.youtube.com/channel/UCbiEAICCX-lyat0IOUIbyCA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbiEAICCX-lyat0IOUIbyCA"/>
+                <outline text="E;R" type="rss" htmlUrl="https://api.bitchute.com/channel/erofthesemicolon/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/erofthesemicolon"/>
+                <outline text="E;R" type="rss" htmlUrl="https://www.youtube.com/channel/UC4BZtFgtCuHUt0p8J-XENiA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4BZtFgtCuHUt0p8J-XENiA"/>
+                <outline text="Dovahhatty" type="rss" htmlUrl="https://www.youtube.com/channel/UCdZY83VtDv0WieDHLyXrlNQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdZY83VtDv0WieDHLyXrlNQ"/>
+                <outline text="Pilgrims Pass" type="rss" htmlUrl="https://www.youtube.com/channel/UCCpXIExIj5kDA3cTa3CkCjg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCpXIExIj5kDA3cTa3CkCjg"/>
+                <outline text="MemeAnalysis" type="rss" htmlUrl="https://www.youtube.com/channel/UCb4pvsyqNrmBIGJFQxEukUA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb4pvsyqNrmBIGJFQxEukUA"/>
+                <outline text="The Critical Drinker" type="rss" htmlUrl="https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA"/>
+                <outline text="Kodcast Podcast e Lives" type="rss" htmlUrl="https://www.youtube.com/channel/UChNXTyyOm-FofMQfFliaTVg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChNXTyyOm-FofMQfFliaTVg"/>
+                <outline text="The New Pill" type="rss" htmlUrl="https://www.youtube.com/channel/UCiUkcNS6W0n8QdosuZASduQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiUkcNS6W0n8QdosuZASduQ"/>
+                <outline text="Carlos Alberto Sanches" type="rss" htmlUrl="https://www.youtube.com/channel/UCn5xvHneUr_nc1QW7Nj5qjQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn5xvHneUr_nc1QW7Nj5qjQ"/>
+                <outline text="soph" type="rss" htmlUrl="https://api.bitchute.com/channel/soph/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/soph"/>
+                <outline text="Blackpilled" type="rss" htmlUrl="https://api.bitchute.com/channel/blackpilled/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/Blackpilled"/>
+                <outline text="American Krogan" type="rss" htmlUrl="https://www.bitchute.com/channel/americankrogan/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/americankrogan"/>
+                <outline text="Imperium Press" type="rss" htmlUrl="https://www.youtube.com/channel/UC0LwzH8A9m4Jj_74jl63cog" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0LwzH8A9m4Jj_74jl63cog"/>
+                <outline text="TheAlmightyLoli" type="rss" htmlUrl="https://www.youtube.com/channel/UCznmmSVMbr7E3isp3xYRqug" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCznmmSVMbr7E3isp3xYRqug"/>
+                <outline text="RedLetterMedia" type="rss" htmlUrl="https://www.youtube.com/channel/UCrTNhL_yO3tPTdQ5XgmmWjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrTNhL_yO3tPTdQ5XgmmWjA"/>
+                <outline text="Art Chad" type="rss" htmlUrl="https://www.youtube.com/channel/UC2Y0KKomVw83JDgjVqVCGzg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Y0KKomVw83JDgjVqVCGzg"/>
+            </outline>
+            <outline text="Videos - Health">
+                <outline text="The Bioneer" type="rss" htmlUrl="https://www.youtube.com/channel/UCIh_TPYPqjJuS_-nOfAIlfg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIh_TPYPqjJuS_-nOfAIlfg"/>
+                <outline text="What I've Learned" type="rss" htmlUrl="https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqYPhGiB9tkShZorfgcL2lA"/>
+                <outline text="Improvement Pill" type="rss" htmlUrl="https://www.youtube.com/channel/UCBIt1VN5j37PVM8LLSuTTlw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBIt1VN5j37PVM8LLSuTTlw"/>
+                <outline text="Mark Wildman" type="rss" htmlUrl="https://www.youtube.com/channel/UCVYbUVLrZ6pEBfYV_UyvItA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVYbUVLrZ6pEBfYV_UyvItA"/>
+                <outline text="Wim Hof" type="rss" htmlUrl="https://www.youtube.com/channel/UCxHTM1FYxeC4F7xDsBVltGg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxHTM1FYxeC4F7xDsBVltGg"/>
+            </outline>
+            <outline text="Videos - GreenText">
+                <outline text="Midnight Broadcast" type="rss" htmlUrl="https://www.youtube.com/channel/UCuZc4JcCehT74JbD4gkVcxQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuZc4JcCehT74JbD4gkVcxQ"/>
+                <outline text="Green Spleen Submarine" type="rss" htmlUrl="https://www.youtube.com/channel/UCsCVr5of7XHZoK2k4gvfffg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsCVr5of7XHZoK2k4gvfffg"/>
+                <outline text="[T6]" type="rss" htmlUrl="https://www.youtube.com/channel/UCPv4mkmp5wndrM46m0PlphA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPv4mkmp5wndrM46m0PlphA"/>
+            </outline>
+            <outline text="Videos - ARG">
+                <outline text="MISTER MANTICORE" type="rss" htmlUrl="https://www.youtube.com/channel/UChpTxCrmfHNYo2jkt4rR6Rw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChpTxCrmfHNYo2jkt4rR6Rw"/>
+                <outline text="Hypnagogic Archive" type="rss" htmlUrl="https://www.youtube.com/channel/UCtf2wiEvMLwnkdxSq7w_-Sg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtf2wiEvMLwnkdxSq7w_-Sg"/>
+                <outline text="LOCAL58TV" type="rss" htmlUrl="https://www.youtube.com/channel/UCuoMasRkMhlj1VNVAOJdw5w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuoMasRkMhlj1VNVAOJdw5w"/>
+                <outline text="GEMINI HOME ENTERTAINMENT" type="rss" htmlUrl="https://www.youtube.com/channel/UC9YXCCz-A28lxhMA-ArfBaA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9YXCCz-A28lxhMA-ArfBaA"/>
+                <outline text="Alex Kister" type="rss" htmlUrl="https://www.youtube.com/channel/UC6UBbvEA8uh6Ulc6ax1Zs0g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6UBbvEA8uh6Ulc6ax1Zs0g"/>
+                <outline text="Kane Pixels" type="rss" htmlUrl="https://www.youtube.com/channel/UC8X4WT5_lUXqMjeN8bGFk9w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8X4WT5_lUXqMjeN8bGFk9w"/>
+            </outline>
+            <outline text="Videos - Horror, Creepy, etc">
+                <outline text="Nexpo" type="rss" htmlUrl="https://www.youtube.com/channel/UCpFFItkfZz1qz5PpHpqzYBw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpFFItkfZz1qz5PpHpqzYBw"/>
+                <outline text="tofu" type="rss" htmlUrl="https://www.youtube.com/channel/UCSmfK0ffNSoZwVfMqDPrXhg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSmfK0ffNSoZwVfMqDPrXhg"/>
+                <outline text="Horror Stories" type="rss" htmlUrl="https://www.youtube.com/channel/UCG4wigbjnwzBIck_8t_IWSg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG4wigbjnwzBIck_8t_IWSg"/>
+                <outline text="Wendigoon" type="rss" htmlUrl="https://www.youtube.com/channel/UC3cpN6gcJQqcCM6mxRUo_dA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3cpN6gcJQqcCM6mxRUo_dA"/>
+                <outline text="Shrouded Hand" type="rss" htmlUrl="https://www.youtube.com/channel/UCsVIQ2ipmCbua6s8ThFLo5A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsVIQ2ipmCbua6s8ThFLo5A"/>
+                <outline text="ScareTheater" type="rss" htmlUrl="https://www.youtube.com/channel/UCaGOgwGKnDVOKY0DrFsBAiA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaGOgwGKnDVOKY0DrFsBAiA"/>
+                <outline text="Atrocity Guide" type="rss" htmlUrl="https://www.youtube.com/channel/UCn8OYopT9e8tng-CGEWzfmw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn8OYopT9e8tng-CGEWzfmw"/>
+                <outline text="IndexSe7e" type="rss" htmlUrl="https://www.youtube.com/channel/UCLhorCB69OqMws0_H9TZ0YA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLhorCB69OqMws0_H9TZ0YA"/>
+                <outline text="Goose Boose" type="rss" htmlUrl="https://www.youtube.com/channel/UCPNpWbJonN_3pyeYATJb_bg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPNpWbJonN_3pyeYATJb_bg"/>
+                <outline text="RagnarRox" type="rss" htmlUrl="https://www.youtube.com/channel/UCFg9-S0cfu3UvBYuSNFT9hQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFg9-S0cfu3UvBYuSNFT9hQ"/>
+                <outline text="In Praise of Shadows" type="rss" htmlUrl="https://www.youtube.com/channel/UCdPPmAd9qlG80qeSm74-eww" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdPPmAd9qlG80qeSm74-eww"/>
+                <outline text="MSA Matthew" type="rss" htmlUrl="https://www.youtube.com/channel/UCItAnWpuUZOEr4HXjkTBxcA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCItAnWpuUZOEr4HXjkTBxcA"/>
+                <outline text="Scary Interesting" type="rss" htmlUrl="https://www.youtube.com/channel/UCNXvmGafmrtJ7VPSqjRRbwg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNXvmGafmrtJ7VPSqjRRbwg"/>
+                <outline text="Limbo" type="rss" htmlUrl="https://www.youtube.com/channel/UCE_D0W8VmZnV84iPVCXe5QA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE_D0W8VmZnV84iPVCXe5QA"/>
+                <outline text="Nick Crowley" type="rss" htmlUrl="https://www.youtube.com/channel/UCMX31RavkfUHJvw03RbUZnA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMX31RavkfUHJvw03RbUZnA"/>
+                <outline text="blameitonjorge" type="rss" htmlUrl="https://www.youtube.com/channel/UCU3oAyhHDXjgbxazqOEG2UA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCU3oAyhHDXjgbxazqOEG2UA"/>
+                <outline text="BizarreBub" type="rss" htmlUrl="https://www.youtube.com/channel/UCn7Ef9w8dTXyk9kNgti9aWw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn7Ef9w8dTXyk9kNgti9aWw"/>
+                <outline text="Gearisko" type="rss" htmlUrl="https://www.youtube.com/channel/UCNkoP90lOy34vJYcTFaiJPQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNkoP90lOy34vJYcTFaiJPQ"/>
+                <outline text="YourEverydayTheorist" type="rss" htmlUrl="https://www.youtube.com/channel/UCEfP26BAdjl6LeeXQnjm9zQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEfP26BAdjl6LeeXQnjm9zQ"/>
+                <outline text="Book of Valis" type="rss" htmlUrl="https://www.youtube.com/channel/UC5Qz5efUK0wKhNAhjjRaJww" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5Qz5efUK0wKhNAhjjRaJww"/>
+                <outline text="Parallel Pipes" type="rss" htmlUrl="https://www.youtube.com/channel/UC65IEk6PTfRZzyvrcYypHQg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC65IEk6PTfRZzyvrcYypHQg"/>
+                <outline text="Debunk File" type="rss" htmlUrl="https://www.youtube.com/channel/UClOZrlu8d0dOocblzEBHoYA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClOZrlu8d0dOocblzEBHoYA"/>
+                <outline text="Pulsar" type="rss" htmlUrl="https://www.youtube.com/channel/UC94rOrYS8dp0zkppenu0MEg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC94rOrYS8dp0zkppenu0MEg"/>
+                <outline text="Night Mind" type="rss" htmlUrl="https://www.youtube.com/channel/UC58IKuPHnZkdCZ6T5mSRGCg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC58IKuPHnZkdCZ6T5mSRGCg"/>
+                <outline text="Lazy Masquerade" type="rss" htmlUrl="https://www.youtube.com/channel/UC7dHBh9QmYF1L0TOeGIzZgw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7dHBh9QmYF1L0TOeGIzZgw"/>
+                <outline text="Bedtime Stories" type="rss" htmlUrl="https://www.youtube.com/channel/UCCD4-G3Aokt2sM7TYQV2HmA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCD4-G3Aokt2sM7TYQV2HmA"/>
+                <outline text="Redlyne" type="rss" htmlUrl="https://www.youtube.com/channel/UCPD7FU73S_mMMsxSr03oOSQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPD7FU73S_mMMsxSr03oOSQ"/>
+            </outline>
+            <outline text="Videos - Religion, Spirituality, etc">
+                <outline text="Jonathan Pageau" type="rss" htmlUrl="https://www.youtube.com/channel/UCtCTSf3UwRU14nYWr_xm-dQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtCTSf3UwRU14nYWr_xm-dQ"/>
+                <outline text="Celestial Trail" type="rss" htmlUrl="https://www.youtube.com/channel/UCJpN-GBTchQaSVwBbefYMNg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJpN-GBTchQaSVwBbefYMNg"/>
+                <outline text="Galahad Eridanus" type="rss" htmlUrl="https://www.youtube.com/channel/UCjRKVS7aiGgwqWfVYXl1bjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjRKVS7aiGgwqWfVYXl1bjA"/>
+                <outline text="Coroa Católico" type="rss" htmlUrl="https://www.youtube.com/channel/UCGEisYOqz-JM9AFG5fCsNrQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGEisYOqz-JM9AFG5fCsNrQ"/>
+                <outline text="The Aureus Press" type="rss" htmlUrl="https://www.youtube.com/channel/UCdL3dD8NyHTpnBB5zti3DhA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdL3dD8NyHTpnBB5zti3DhA"/>
+                <outline text="Yuttadhammo Bhikkhu" type="rss" htmlUrl="https://www.youtube.com/channel/UCQJ6ESCWQotBwtJm0Ff_gyQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQJ6ESCWQotBwtJm0Ff_gyQ"/>
+                <outline text="Brute Norse" type="rss" htmlUrl="https://www.youtube.com/channel/UCbscyx0mteUArCD04xdahww" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbscyx0mteUArCD04xdahww"/>
+                <outline text="Mr. Mythos" type="rss" htmlUrl="https://www.youtube.com/channel/UCKaoE6fyoUJOgcoqbyuK9LQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKaoE6fyoUJOgcoqbyuK9LQ"/>
+                <outline text="Aurora de Ferro" type="rss" htmlUrl="https://www.youtube.com/channel/UCv736-Ip05H3_ZVqG1xynQw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv736-Ip05H3_ZVqG1xynQw"/>
+                <outline text="ESOTERICA" type="rss" htmlUrl="https://www.youtube.com/channel/UCoydhtfFSk1fZXNRnkGnneQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoydhtfFSk1fZXNRnkGnneQ"/>
+            </outline>
+            <outline text="Videos - Anthropology">
+                <outline text="AshaLogos" type="rss" htmlUrl="https://api.bitchute.com/channel/ashalogos/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/AshaLogos"/>
+                <outline text="Asha Logos on Odysee" type="rss" htmlUrl="https://odysee.com/@ashalogos:92" xmlUrl="https://odysee.com/$/rss/@ashalogos:92"/>
+                <outline text="Atlantean Gardens" type="rss" htmlUrl="https://www.youtube.com/channel/UC0gkKMGpCgyun7OoEOseryg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0gkKMGpCgyun7OoEOseryg"/>
+                <outline text="Survive the Jive" type="rss" htmlUrl="https://www.youtube.com/channel/UCZAENaOaceQUMd84GDc26EA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZAENaOaceQUMd84GDc26EA"/>
+                <outline text="Nexus Void" type="rss" htmlUrl="https://www.youtube.com/channel/UCTagt1BHfHy268zji9D9WjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTagt1BHfHy268zji9D9WjA"/>
+                <outline text="Formscapes" type="rss" htmlUrl="https://www.youtube.com/channel/UCcK7FL7MY1ndPMqSsoMNvyw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcK7FL7MY1ndPMqSsoMNvyw"/>
+            </outline>
+            <outline text="Videos - Cooking">
+                <outline text="You Suck At Cooking" type="rss" htmlUrl="https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w"/>
+                <outline text="Townsends" type="rss" htmlUrl="https://www.youtube.com/channel/UCxr2d4As312LulcajAkKJYw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxr2d4As312LulcajAkKJYw"/>
+            </outline>
+            <outline text="Videos - Architecture, Permaculture and Pratical Skills">
+                <outline text="DAS Bookbinding" type="rss" htmlUrl="https://www.youtube.com/channel/UCbCGQEhxF94sQqb3zUqChXw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbCGQEhxF94sQqb3zUqChXw"/>
+                <outline text="Andrew Millison" type="rss" htmlUrl="https://www.youtube.com/channel/UCgb_TbreMgfDdLKkr4yYJHw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgb_TbreMgfDdLKkr4yYJHw"/>
+                <outline text="RED Gardens" type="rss" htmlUrl="https://www.youtube.com/channel/UCq9U-gJ1LtDCE4W5BhEDFSQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq9U-gJ1LtDCE4W5BhEDFSQ"/>
+                <outline text="EASYarchitecture" type="rss" htmlUrl="https://www.youtube.com/channel/UCn01I0ljGUacFAeyxQsr0fg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn01I0ljGUacFAeyxQsr0fg"/>
+                <outline text="Natural Buildings" type="rss" htmlUrl="https://www.youtube.com/channel/UCuGfdnQmMDzZ0OblDST6mRA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuGfdnQmMDzZ0OblDST6mRA"/>
+                <outline text="Architectural Orders" type="rss" htmlUrl="https://www.youtube.com/channel/UCH5qMdmk4vTEnnHjTlITv_A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH5qMdmk4vTEnnHjTlITv_A"/>
+                <outline text="Architectural Revival" type="rss" htmlUrl="https://www.youtube.com/channel/UCBZSCro2lpyrAA9ZFmxtfJQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBZSCro2lpyrAA9ZFmxtfJQ"/>
+                <outline text="Primitive Technology" type="rss" htmlUrl="https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAL3JXZSzSm8AlZyD3nQdBA"/>
+                <outline text="This Cob House" type="rss" htmlUrl="https://www.youtube.com/channel/UCAXJJ2UhfHFfO5oDBtAlq-A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAXJJ2UhfHFfO5oDBtAlq-A"/>
+                <outline text="The Nito Project" type="rss" htmlUrl="https://www.youtube.com/channel/UCAVdVDg80fg1rjZjPWQr3xw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAVdVDg80fg1rjZjPWQr3xw"/>
+                <outline text="Architecture Inspirations" type="rss" htmlUrl="https://www.youtube.com/channel/UCsZj_aFDrwLNPZELik04dKg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsZj_aFDrwLNPZELik04dKg"/>
+                <outline text="Essential Craftsman" type="rss" htmlUrl="https://www.youtube.com/channel/UCzr30osBdTmuFUS8IfXtXmg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzr30osBdTmuFUS8IfXtXmg"/>
+                <outline text="MeatEater" type="rss" htmlUrl="https://www.youtube.com/channel/UCAaa0mleeU128Ad5iM1RFIg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAaa0mleeU128Ad5iM1RFIg"/>
+                <outline text="ArchitectureMMXII" type="rss" htmlUrl="https://www.youtube.com/channel/UCGYHLZkCrnswHSurm2_6QNg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGYHLZkCrnswHSurm2_6QNg"/>
+                <outline text="ctcslc" type="rss" htmlUrl="https://www.youtube.com/channel/UCAHWbtmRrFqgfKnevfkjFXw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAHWbtmRrFqgfKnevfkjFXw"/>
+                <outline text="How To Make Everything" type="rss" htmlUrl="https://www.youtube.com/channel/UCfIqCzQJXvYj9ssCoHq327g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfIqCzQJXvYj9ssCoHq327g"/>
+                <outline text="Sobrevivencialismo" type="rss" htmlUrl="https://www.youtube.com/channel/UClQfWNWk9UsUj317ce5FtXg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClQfWNWk9UsUj317ce5FtXg"/>
+                <outline text="Primitive Skills" type="rss" htmlUrl="https://www.youtube.com/channel/UCs8DNFOxYen3kuj87aWKG9g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs8DNFOxYen3kuj87aWKG9g"/>
+                <outline text="This Old House" type="rss" htmlUrl="https://www.youtube.com/channel/UCUtWNBWbFL9We-cdXkiAuJA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUtWNBWbFL9We-cdXkiAuJA"/>
+                <outline text="Mr. Chickadee" type="rss" htmlUrl="https://www.youtube.com/channel/UCHkYrJ2Fbe7pBjEZvkFzi3A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHkYrJ2Fbe7pBjEZvkFzi3A"/>
+                <outline text="Back To Reality" type="rss" htmlUrl="https://www.youtube.com/channel/UCVQCQJyZQcIioTDQ4SACvZQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVQCQJyZQcIioTDQ4SACvZQ"/>
+                <outline text="Practical Engineering" type="rss" htmlUrl="https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ"/>
+                <outline text="Vida Verde Sistemas Sustentáveis" type="rss" htmlUrl="https://www.youtube.com/channel/UC8Bxqpk7rBJQT957u1n3AEA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8Bxqpk7rBJQT957u1n3AEA"/>
+                <outline text="ncptt" type="rss" htmlUrl="https://www.youtube.com/channel/UCapDwzLgEdV-Cy1yGOdbiEg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCapDwzLgEdV-Cy1yGOdbiEg"/>
+                <outline text="From Scratch Farmstead" type="rss" htmlUrl="https://www.youtube.com/channel/UCv9yHOWQCyI70yKa4SGX5Gw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv9yHOWQCyI70yKa4SGX5Gw"/>
+            </outline>
+            <outline text="Videos - Fighting/Sports">
+                <outline text="Adorea Olomouc" type="rss" htmlUrl="https://www.youtube.com/channel/UCpKmU3wa3d05ZIUAC7ZXnCQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpKmU3wa3d05ZIUAC7ZXnCQ"/>
+                <outline text="AMO Pankration" type="rss" htmlUrl="https://www.youtube.com/channel/UCjv0zy2Ve1YkJfGw20QSTfw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjv0zy2Ve1YkJfGw20QSTfw"/>
+                <outline text="CFX Sports" type="rss" htmlUrl="https://www.youtube.com/channel/UCMQKHtL-h8TZTZ5jlHPd9xA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMQKHtL-h8TZTZ5jlHPd9xA"/>
+                <outline text="MMA DIVE" type="rss" htmlUrl="https://www.youtube.com/channel/UCGqgElruj5OqExkKgzJpOUg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGqgElruj5OqExkKgzJpOUg"/>
+                <outline text="TheCrayTrey" type="rss" htmlUrl="https://www.youtube.com/channel/UCx4fHduCHfBuTDpguQVPCBg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCx4fHduCHfBuTDpguQVPCBg"/>
+            </outline>
+            <outline text="Videos - Music">
+                <outline text="Adam Neely" type="rss" htmlUrl="https://www.youtube.com/channel/UCnkp4xDOwqqJD7sSM3xdUiQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnkp4xDOwqqJD7sSM3xdUiQ"/>
+                <outline text="Strawberry Guy" type="rss" htmlUrl="https://www.youtube.com/channel/UC_w3kPfogCqTkNdxzdZrc5g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_w3kPfogCqTkNdxzdZrc5g"/>
+                <outline text="TheFutureofThePast" type="rss" htmlUrl="https://www.youtube.com/channel/UCENlEmDGTiaxVJqu274YmCw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCENlEmDGTiaxVJqu274YmCw"/>
+                <outline text="Ogeid" type="rss" htmlUrl="https://www.youtube.com/channel/UCySYksw8XF41eogHd0qwZbQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCySYksw8XF41eogHd0qwZbQ"/>
+                <outline text="Cantos Cruzados" type="rss" htmlUrl="https://www.youtube.com/channel/UCxt5BRhA-fxr_62uwoBJ_SA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxt5BRhA-fxr_62uwoBJ_SA"/>
+                <outline text="War Aesthetics" type="rss" htmlUrl="https://www.youtube.com/channel/UCmt26ySB0zFB6SllxNigysg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmt26ySB0zFB6SllxNigysg"/>
+                <outline text="Ex Cathedra" type="rss" htmlUrl="https://www.youtube.com/channel/UCALgbfMZggNWAptlSVDRmug" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCALgbfMZggNWAptlSVDRmug"/>
+                <outline text="Inside the Score" type="rss" htmlUrl="https://www.youtube.com/channel/UC4ihNhN8iN9QPg2XTxiiPJw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4ihNhN8iN9QPg2XTxiiPJw"/>
+                <outline text="Nox Arcana" type="rss" htmlUrl="https://www.youtube.com/channel/UCNc1V1ReYYJ2xbZNdAKlcOg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNc1V1ReYYJ2xbZNdAKlcOg"/>
+                <outline text="Major Thom" type="rss" htmlUrl="https://www.youtube.com/channel/UC2kSf4dtHZlnFTlcqxu8pqw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2kSf4dtHZlnFTlcqxu8pqw"/>
+                <outline text="Wrengan" type="rss" htmlUrl="https://www.youtube.com/channel/UC5KzDu6Cd3WvQGEZzuutBFw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5KzDu6Cd3WvQGEZzuutBFw"/>
+                <outline text="CYBERNAZI" type="rss" htmlUrl="https://api.bitchute.com/channel/cybernazi/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/CYBERNAZI"/>
+            </outline>
+            <outline text="Videos - Technology">
+                <outline text="Two Minute Papers" type="rss" htmlUrl="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"/>
+                <outline text="Luke Smith" type="rss" htmlUrl="https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA"/>
+                <outline text="Fabio Akita" type="rss" htmlUrl="https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCib793mnUOhWymCh2VJKplQ"/>
+                <outline text="Fireship" type="rss" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"/>
+                <outline text="CodeParade" type="rss" htmlUrl="https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrv269YwJzuZL3dH5PCgxUw"/>
+                <outline text="Blender Guru" type="rss" htmlUrl="https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g"/>
+                <outline text="Computerphile" type="rss" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA"/>
+                <outline text="Shadow Walker" type="rss" htmlUrl="https://www.youtube.com/channel/UC_ZNEeXHo6lzDuqcFT_uMvg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_ZNEeXHo6lzDuqcFT_uMvg"/>
+                <outline text="Mental Outlaw" type="rss" htmlUrl="https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA"/>
+                <outline text="Junferno" type="rss" htmlUrl="https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRb6Mw3fJ6OFzp-cB9X29aA"/>
+                <outline text="Sebastian Lague" type="rss" htmlUrl="https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmtyQOKKmrMVaKuRXz02jbQ"/>
+                <outline text="Seytonic" type="rss" htmlUrl="https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW6xlqxSY3gGur4PkGPEUeA"/>
+                <outline text="Nerdy Rodent" type="rss" htmlUrl="https://www.youtube.com/channel/UC4-5v-f-xKnbi1yaAuRSi_w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4-5v-f-xKnbi1yaAuRSi_w"/>
+                <outline text="Acerola" type="rss" htmlUrl="https://www.youtube.com/channel/UCQG40havu4kNpB4pxUDQhYQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQG40havu4kNpB4pxUDQhYQ"/>
+                <outline text="TechLead" type="rss" htmlUrl="https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4xKdmAXFh4ACyhpiQ_3qBw"/>
+            </outline>
+            <outline text="Videos - Intel &amp; OPSEC">
+                <outline text="S2 Underground on Odysee" type="rss" htmlUrl="https://odysee.com/@S2Underground:7" xmlUrl="https://odysee.com/$/rss/@S2Underground:7"/>
+                <outline text="CaspianReport" type="rss" htmlUrl="https://www.youtube.com/channel/UCwnKziETDbHJtx78nIkfYug" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwnKziETDbHJtx78nIkfYug"/>
+                <outline text="WarLeaks - Military Blog" type="rss" htmlUrl="https://www.youtube.com/channel/UCuqdsYT5rFqw0L5oO_HwvgA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuqdsYT5rFqw0L5oO_HwvgA"/>
+                <outline text="Strategy Stuff" type="rss" htmlUrl="https://www.youtube.com/channel/UCJn_zQa80o1l8FgAfVofHRQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJn_zQa80o1l8FgAfVofHRQ"/>
+                <outline text="RealLifeLore" type="rss" htmlUrl="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP5tjEmvPItGyLhmjdwP7Ww"/>
+                <outline text="Security Ops" type="rss" htmlUrl="https://www.youtube.com/channel/UCisIYQVROvE_30F-CK_uj2Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCisIYQVROvE_30F-CK_uj2Q"/>
+                <outline text="HypOps" type="rss" htmlUrl="https://www.youtube.com/channel/UC9dxDd4SJ02Xety9x5kvihw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9dxDd4SJ02Xety9x5kvihw"/>
+                <outline text="Print Shoot Repeat on Odysee" type="rss" htmlUrl="https://odysee.com/@printshootrepeat:5" xmlUrl="https://odysee.com/$/rss/@printshootrepeat:5"/>
+                <outline text="HistoryLegends" type="rss" htmlUrl="https://www.youtube.com/channel/UCHqqf2BwNM4Oih-a_ikbWww" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHqqf2BwNM4Oih-a_ikbWww"/>
+            </outline>
+            <outline text="Videos - Comedy">
+                <outline text="TVFilthyFrank" type="rss" htmlUrl="https://www.youtube.com/channel/UCkitABalXafr-NqceQdDXtg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkitABalXafr-NqceQdDXtg"/>
+                <outline text="Alasdair Beckett-King" type="rss" htmlUrl="https://www.youtube.com/channel/UCq5btGtqdn4CpvU0xTXaelA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq5btGtqdn4CpvU0xTXaelA"/>
+                <outline text="TVFilthyFrank2" type="rss" htmlUrl="https://www.youtube.com/channel/UC0w4VRGCSmFw26mLsMPO7mg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0w4VRGCSmFw26mLsMPO7mg"/>
+                <outline text="Internet Historian" type="rss" htmlUrl="https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR1D15p_vdP3HkrH8wgjQRw"/>
+                <outline text="Ryan Long" type="rss" htmlUrl="https://www.youtube.com/channel/UCzKFvBRI6VT3jYJq6a820nA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzKFvBRI6VT3jYJq6a820nA"/>
+                <outline text="Mype Sports" type="rss" htmlUrl="https://www.youtube.com/channel/UCxc7q_dnxN7utTGQIE-kpoA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxc7q_dnxN7utTGQIE-kpoA"/>
+                <outline text="Parabellum" type="rss" htmlUrl="https://www.youtube.com/channel/UCRII2Rui4n4i1o_L9Px9ZDg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRII2Rui4n4i1o_L9Px9ZDg"/>
+                <outline text="JonTronShow" type="rss" htmlUrl="https://www.youtube.com/channel/UCdJdEguB1F1CiYe7OEi3SBg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdJdEguB1F1CiYe7OEi3SBg"/>
+                <outline text="Contra versão Poop" type="rss" htmlUrl="https://www.youtube.com/channel/UCEXP61k5jJrb4eLnr9b3iTw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEXP61k5jJrb4eLnr9b3iTw"/>
+                <outline text="Incognito Mode" type="rss" htmlUrl="https://www.youtube.com/channel/UC8Q7XEy86Q7T-3kNpNjYgwA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8Q7XEy86Q7T-3kNpNjYgwA"/>
+                <outline text="OfficialWKUK" type="rss" htmlUrl="https://www.youtube.com/channel/UCNwbDMbDV7gu6-rO70lCQJg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNwbDMbDV7gu6-rO70lCQJg"/>
+                <outline text="PewDiePie" type="rss" htmlUrl="https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw"/>
+                <outline text="Jack O'Shea" type="rss" htmlUrl="https://www.youtube.com/channel/UCY-BxclFSs6BFNzb7InPQDw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY-BxclFSs6BFNzb7InPQDw"/>
+                <outline text="Kilian Experience" type="rss" htmlUrl="https://www.youtube.com/channel/UCjdQaSJCYS4o2eG93MvIwqg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjdQaSJCYS4o2eG93MvIwqg"/>
+                <outline text="The Andrew Schulz" type="rss" htmlUrl="https://www.youtube.com/channel/UCLZc32yrTEMxH1ZO-6fKOzA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLZc32yrTEMxH1ZO-6fKOzA"/>
+                <outline text="The Onion" type="rss" htmlUrl="https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfAOh2t5DpxVrgS9NQKjC7A"/>
+                <outline text="Value Select" type="rss" htmlUrl="https://www.youtube.com/channel/UCsnVnnNneaz0E7aQPD_o0BQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnVnnNneaz0E7aQPD_o0BQ"/>
+                <outline text="SkyCorp Home Video" type="rss" htmlUrl="https://www.youtube.com/channel/UCIoDNWuAq3wPv11BXbr5xMg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIoDNWuAq3wPv11BXbr5xMg"/>
+            </outline>
+            <outline text="Videos -  Dissident Archeology">
+                <outline text="Mystery History" type="rss" htmlUrl="https://www.youtube.com/channel/UCC9JHVPm-4P5QDp9vk8EH-A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC9JHVPm-4P5QDp9vk8EH-A"/>
+                <outline text="Brien Foerster" type="rss" htmlUrl="https://www.youtube.com/channel/UCOavg1FtdeuyUTLz3wmuIKQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOavg1FtdeuyUTLz3wmuIKQ"/>
+                <outline text="Ancient Architects" type="rss" htmlUrl="https://www.youtube.com/channel/UCscI4NOggNSN-Si5QgErNCw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCscI4NOggNSN-Si5QgErNCw"/>
+                <outline text="Graham Hancock Official Channel" type="rss" htmlUrl="https://www.youtube.com/channel/UCk_foUwmaHeFhmAZMnEHQsw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk_foUwmaHeFhmAZMnEHQsw"/>
+            </outline>
+            <outline text="Videos -  Conspiracy">
+                <outline text="Mysterious Middle East" type="rss" htmlUrl="https://www.youtube.com/channel/UCYoulQOH1t8fRNyCoxPC_Tw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYoulQOH1t8fRNyCoxPC_Tw"/>
+                <outline text="Charles K: History Videos" type="rss" htmlUrl="https://www.youtube.com/channel/UC4dkC_L7uyH2ZYl_ixWASIg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4dkC_L7uyH2ZYl_ixWASIg"/>
+                <outline text="March Of The Titans" type="rss" htmlUrl="https://www.youtube.com/channel/UCU1muaHWWU2-wvLlzHlDlEw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCU1muaHWWU2-wvLlzHlDlEw"/>
+                <outline text="reallygraceful" type="rss" htmlUrl="https://www.youtube.com/channel/UCY-UU3bN4FkMILC-CMd8N5w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY-UU3bN4FkMILC-CMd8N5w"/>
+                <outline text="the Truth is stranger than fiction..." type="rss" htmlUrl="https://www.youtube.com/channel/UC2aFQcGgRoVuEWfx2AM0H-A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2aFQcGgRoVuEWfx2AM0H-A"/>
+                <outline text="Mind Unveiled" type="rss" htmlUrl="https://www.youtube.com/channel/UC4TjXPVIYz9Z13SB3vxKuZQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4TjXPVIYz9Z13SB3vxKuZQ"/>
+                <outline text="Conspiracy-Graduates" type="rss" htmlUrl="https://www.youtube.com/channel/UCb76iq0un2ahD99x8rKfjTA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb76iq0un2ahD99x8rKfjTA"/>
+                <outline text="UnchartedX" type="rss" htmlUrl="https://www.youtube.com/channel/UC2Stn8atEra7SMdPWyQoSLA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Stn8atEra7SMdPWyQoSLA"/>
+                <outline text="FreiheitsFreund" type="rss" htmlUrl="https://api.bitchute.com/channel/freiheitsfreund/" xmlUrl="http://www.bitchute.com/feeds/rss/channel/FreiheitsFreund/"/>
+                <outline text="JayM_Documentaries" type="rss" htmlUrl="https://www.bitchute.com/channel/jaym_documentaries/" xmlUrl="http://www.bitchute.com/feeds/rss/channel/JayM_Documentaries/"/>
+                <outline text="Alpha Talkz" type="rss" htmlUrl="https://www.youtube.com/channel/UCugzOLEKcX-W0KgblYon5tw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCugzOLEKcX-W0KgblYon5tw"/>
+                <outline text="CONSPIRACY-R-US" type="rss" htmlUrl="https://www.youtube.com/channel/UC6ubbifx2lhO4bNLYwDWbjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6ubbifx2lhO4bNLYwDWbjA"/>
+                <outline text="Emperor Zeech" type="rss" htmlUrl="https://www.youtube.com/channel/UCKP1rzcqzEKnIp9SWjog-zg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKP1rzcqzEKnIp9SWjog-zg"/>
+                <outline text="Mouthy Buddha on Odysee" type="rss" htmlUrl="https://odysee.com/@MouthyBuddha:a" xmlUrl="https://odysee.com/$/rss/@MouthyBuddha:a"/>
+                <outline text="Mouthy Buddha" type="rss" htmlUrl="https://api.bitchute.com/channel/mouthybuddha/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/mouthybuddha/"/>
+                <outline text="Thescariestmovieever" type="rss" htmlUrl="https://www.youtube.com/channel/UCo8fiE2-s0SZu6Onb8lNLMQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo8fiE2-s0SZu6Onb8lNLMQ"/>
+                <outline text="PARASYKE TV" type="rss" htmlUrl="https://www.youtube.com/channel/UCV1ZplGiDAOHuizt0noAKlg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV1ZplGiDAOHuizt0noAKlg"/>
+                <outline text="Static in the attic" type="rss" htmlUrl="https://www.youtube.com/channel/UCjnUvgimc9OjX843EzD1J_Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjnUvgimc9OjX843EzD1J_Q"/>
+                <outline text="The Secret Sun Institute" type="rss" htmlUrl="https://www.youtube.com/channel/UC3jb-gg6Hw3HH3Ej0tBxDpQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3jb-gg6Hw3HH3Ej0tBxDpQ"/>
+            </outline>
+            <outline text="Videos - Politics">
+                <outline text="Sean Last" type="rss" htmlUrl="https://api.bitchute.com/channel/sean_last/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/sean_last"/>
+                <outline text="American Krogan on Odysee" type="rss" htmlUrl="https://odysee.com/@americankrogan:3" xmlUrl="https://odysee.com/$/rss/@americankrogan:3"/>
+                <outline text="Bases Viriato" type="rss" htmlUrl="https://www.youtube.com/channel/UCdjNzt3JDBRDU67h8ro8vMg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdjNzt3JDBRDU67h8ro8vMg"/>
+                <outline text="Emil O. W. Kirkegaard" type="rss" htmlUrl="https://www.youtube.com/channel/UCbT_SxIN5oMSb7bjYkE8FpQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbT_SxIN5oMSb7bjYkE8FpQ"/>
+                <outline text="Traduções Zoomer" type="rss" htmlUrl="https://www.youtube.com/channel/UCno7febNETuXOW8QhDN6imA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCno7febNETuXOW8QhDN6imA"/>
+                <outline text="Knight's Move" type="rss" htmlUrl="https://www.youtube.com/channel/UC63HcOlghFQ3pcursLUp3NQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC63HcOlghFQ3pcursLUp3NQ"/>
+                <outline text="Neuroposter" type="rss" htmlUrl="https://www.youtube.com/channel/UCL-KWzX_hw7yfVR7WPQxIeA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL-KWzX_hw7yfVR7WPQxIeA"/>
+                <outline text="StudentsForWesternCivilisation" type="rss" htmlUrl="https://www.youtube.com/channel/UCXEiu2qv0sjRB9KuHjT6YUQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXEiu2qv0sjRB9KuHjT6YUQ"/>
+                <outline text="Legião Identitária" type="rss" htmlUrl="https://www.youtube.com/channel/UCkMc3StdVdyIDyEDvm9jdOg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkMc3StdVdyIDyEDvm9jdOg"/>
+                <outline text="I,Hypocrite" type="rss" htmlUrl="https://www.youtube.com/channel/UCKGLZ1K7jKfi_42bHxdCBrA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKGLZ1K7jKfi_42bHxdCBrA"/>
+                <outline text="The Alternative Hypothesis" type="rss" htmlUrl="https://www.youtube.com/channel/UC2w1CQqPli4w94-PCg2UvJQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2w1CQqPli4w94-PCg2UvJQ"/>
+                <outline text="Sean Last" type="rss" htmlUrl="https://www.youtube.com/channel/UCK1Uk2f36aglexxLkfOWnEQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK1Uk2f36aglexxLkfOWnEQ"/>
+                <outline text="Resurrection Europa" type="rss" htmlUrl="https://www.youtube.com/channel/UCN3tOgo3UEpvPQgChYf9vvg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN3tOgo3UEpvPQgChYf9vvg"/>
+                <outline text="Black Pilled" type="rss" htmlUrl="https://www.youtube.com/channel/UCvaHgYcWAAcn5D54w4Dqezg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvaHgYcWAAcn5D54w4Dqezg"/>
+                <outline text="The Distributist" type="rss" htmlUrl="https://www.youtube.com/channel/UCdHT7KB1gDAXZYpPW71fn0Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdHT7KB1gDAXZYpPW71fn0Q"/>
+                <outline text="Felix Rex" type="rss" htmlUrl="https://www.youtube.com/channel/UCcOdNCF5e5Ev-57AWf_LpkA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcOdNCF5e5Ev-57AWf_LpkA"/>
+                <outline text="Black Pigeon Speaks" type="rss" htmlUrl="https://api.bitchute.com/channel/blackpigeonspeaks/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/BlackPigeonSpeaks"/>
+                <outline text="Truthstream Media" type="rss" htmlUrl="https://www.youtube.com/channel/UCVEaFSr-jdTa_QE4PPSkVJw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVEaFSr-jdTa_QE4PPSkVJw"/>
+                <outline text="Brasileirinhos" type="rss" htmlUrl="https://www.youtube.com/channel/UCBIubFOWKC-HRGxQHl4BP7g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBIubFOWKC-HRGxQHl4BP7g"/>
+                <outline text="Paul Joseph Watson" type="rss" htmlUrl="https://api.bitchute.com/channel/pauljosephwatson/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/pauljosephwatson"/>
+                <outline text="Red Ice TV" type="rss" htmlUrl="https://www.bitchute.com/channel/redicetv/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/RedIceTV"/>
+                <outline text="Cultured_Thug" type="rss" htmlUrl="https://api.bitchute.com/channel/cultured_thug/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/Cultured_Thug"/>
+                <outline text="TheFascifist" type="rss" htmlUrl="https://api.bitchute.com/channel/thefascifist/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/TheFascifist"/>
+                <outline text="American Renaissance" type="rss" htmlUrl="https://www.bitchute.com/channel/amrenaissance/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/amrenaissance"/>
+                <outline text="Leather Apron Club" type="rss" htmlUrl="https://www.youtube.com/channel/UCqL-oPQEozYkqef04_O47sQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqL-oPQEozYkqef04_O47sQ"/>
+                <outline text="Charlie Cheon" type="rss" htmlUrl="https://www.youtube.com/channel/UC99Nv-47bJEfM7XuBhxiymw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC99Nv-47bJEfM7XuBhxiymw"/>
+                <outline text="Vanguardia Colombia" type="rss" htmlUrl="https://www.youtube.com/channel/UCHwDbvaq6CCHlYEPvaW7XDg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHwDbvaq6CCHlYEPvaW7XDg"/>
+                <outline text="Myth of the 20th Century" type="rss" htmlUrl="https://api.bitchute.com/channel/myth20c/" xmlUrl="http://www.bitchute.com/feeds/rss/channel/myth20c/"/>
+                <outline text="Brother Nathanael" type="rss" htmlUrl="https://api.bitchute.com/channel/brothernathanael/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/BrotherNathanael/"/>
+                <outline text="Blacklisted Research" type="rss" htmlUrl="https://www.youtube.com/channel/UC9tsQdYZnX4BltumlbBJEHw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9tsQdYZnX4BltumlbBJEHw"/>
+                <outline text="Zoomer Historian" type="rss" htmlUrl="https://www.youtube.com/channel/UCD-oR9vkso3JPPKK8-CWqgQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCD-oR9vkso3JPPKK8-CWqgQ"/>
+                <outline text="Nova Resistência NR" type="rss" htmlUrl="https://www.youtube.com/channel/UCuXwJG8gy6GVttEwB_vsBXQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuXwJG8gy6GVttEwB_vsBXQ"/>
+                <outline text="Prof. Edward Dutton: The Jolly Heretic on Odysee" type="rss" htmlUrl="https://odysee.com/@JollyHeretic:d" xmlUrl="https://odysee.com/$/rss/@JollyHeretic:d"/>
+                <outline text="Black Pigeon Speaks" type="rss" htmlUrl="https://www.youtube.com/channel/UCmrLCXSDScliR7q8AxxjvXg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg"/>
+                <outline text="Alt Hype Streams" type="rss" htmlUrl="https://www.youtube.com/channel/UCkbPk0OHdeOnjciSgdzxuzQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkbPk0OHdeOnjciSgdzxuzQ"/>
+                <outline text="Fringe Elements on Odysee" type="rss" htmlUrl="https://odysee.com/@TheAltHype:6" xmlUrl="https://odysee.com/$/rss/@TheAltHype:6"/>
+                <outline text="The Alt Hype" type="rss" htmlUrl="https://www.bitchute.com/channel/thealthype/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/thealthype"/>
+                <outline text="Divisão Sancta Crux" type="rss" htmlUrl="https://www.youtube.com/channel/UCfWuyk40d9HHVpjx0C0NBjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfWuyk40d9HHVpjx0C0NBjA"/>
+            </outline>
+            <outline text="Videos - History">
+                <outline text="History With Hilbert" type="rss" htmlUrl="https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1Zc6_BhPXiCWZlrZP4EsEg"/>
+                <outline text="Masaman" type="rss" htmlUrl="https://www.youtube.com/channel/UC1vVNQN-TCy8d3Mb_Owr2Kw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1vVNQN-TCy8d3Mb_Owr2Kw"/>
+                <outline text="Feature History" type="rss" htmlUrl="https://www.youtube.com/channel/UCHdluULl5c7bilx1x1TGzJQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHdluULl5c7bilx1x1TGzJQ"/>
+                <outline text="Epic History TV" type="rss" htmlUrl="https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvPXiKxH-eH9xq-80vpgmKQ"/>
+                <outline text="Geography Now" type="rss" htmlUrl="https://www.youtube.com/channel/UCmmPgObSUPw1HL2lq6H4ffA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmmPgObSUPw1HL2lq6H4ffA"/>
+                <outline text="Historia Civilis" type="rss" htmlUrl="https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv_vLHiWVBh_FR9vbeuiY-A"/>
+                <outline text="Invicta" type="rss" htmlUrl="https://www.youtube.com/channel/UCwO-UgquohXwoe7f0e6lMnw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwO-UgquohXwoe7f0e6lMnw"/>
+                <outline text="IT'S HISTORY" type="rss" htmlUrl="https://www.youtube.com/channel/UCzIZ8HrzDgc-pNQDUG6avBA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzIZ8HrzDgc-pNQDUG6avBA"/>
+                <outline text="Real Crusades History" type="rss" htmlUrl="https://www.youtube.com/channel/UCpiumHmUE5EZeLTftxv9qGw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpiumHmUE5EZeLTftxv9qGw"/>
+                <outline text="Modern History TV" type="rss" htmlUrl="https://www.youtube.com/channel/UCMjlDOf0UO9wSijFqPE9wBw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMjlDOf0UO9wSijFqPE9wBw"/>
+                <outline text="Metatron" type="rss" htmlUrl="https://www.youtube.com/channel/UCIjGKyrdT4Gja0VLO40RlOw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIjGKyrdT4Gja0VLO40RlOw"/>
+                <outline text="Ancient History Lover" type="rss" htmlUrl="https://www.youtube.com/channel/UComXnN88_kKnF7wIQgq4vIw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UComXnN88_kKnF7wIQgq4vIw"/>
+                <outline text="Epimetheus" type="rss" htmlUrl="https://www.youtube.com/channel/UCp9ZtilfKJds0iWytR_pnOQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp9ZtilfKJds0iWytR_pnOQ"/>
+                <outline text="Montemayor" type="rss" htmlUrl="https://www.youtube.com/channel/UCX7katl3DVmch4D7LSvqbVQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX7katl3DVmch4D7LSvqbVQ"/>
+                <outline text="History Uncovered" type="rss" htmlUrl="https://www.youtube.com/channel/UClQYbKgg1RqqtA2xG1WnQgw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClQYbKgg1RqqtA2xG1WnQgw"/>
+                <outline text="The Histocrat" type="rss" htmlUrl="https://www.youtube.com/channel/UCSwFnHpDt-lZgR_7Sqisi6A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSwFnHpDt-lZgR_7Sqisi6A"/>
+                <outline text="Simple History" type="rss" htmlUrl="https://www.youtube.com/channel/UC510QYlOlKNyhy_zdQxnGYw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC510QYlOlKNyhy_zdQxnGYw"/>
+                <outline text="Skallagrim" type="rss" htmlUrl="https://www.youtube.com/channel/UC3WIohkLkH4GFoMrrWVZZFA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3WIohkLkH4GFoMrrWVZZFA"/>
+                <outline text="BazBattles" type="rss" htmlUrl="https://www.youtube.com/channel/UCx-dJoP9hFCBloY9qodykvw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCx-dJoP9hFCBloY9qodykvw"/>
+                <outline text="The Great War" type="rss" htmlUrl="https://www.youtube.com/channel/UCUcyEsEjhPEDf69RRVhRh4A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUcyEsEjhPEDf69RRVhRh4A"/>
+                <outline text="History Time" type="rss" htmlUrl="https://www.youtube.com/channel/UCN9v4QG3AQEP3zuRvVs2dAg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN9v4QG3AQEP3zuRvVs2dAg"/>
+                <outline text="Lindybeige" type="rss" htmlUrl="https://www.youtube.com/channel/UC9pgQfOXRsp4UKrI8q0zjXQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9pgQfOXRsp4UKrI8q0zjXQ"/>
+                <outline text="Eastory" type="rss" htmlUrl="https://www.youtube.com/channel/UCElybFZ60Hk1NSjgCf7I2sg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCElybFZ60Hk1NSjgCf7I2sg"/>
+                <outline text="toldinstone" type="rss" htmlUrl="https://www.youtube.com/channel/UCqBiWcuTF8IaLH7wBqnihsQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqBiWcuTF8IaLH7wBqnihsQ"/>
+                <outline text="Getty Museum" type="rss" htmlUrl="https://www.youtube.com/channel/UCH-nCEzazXpn6q4iCapzl9Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH-nCEzazXpn6q4iCapzl9Q"/>
+                <outline text="Victoria and Albert Museum" type="rss" htmlUrl="https://www.youtube.com/channel/UCmaflrfppKNfq8uuZVZZxQg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmaflrfppKNfq8uuZVZZxQg"/>
+                <outline text="Shadiversity" type="rss" htmlUrl="https://www.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkmMACUKpQeIxN9D9ARli1Q"/>
+                <outline text="Smarthistory" type="rss" htmlUrl="https://www.youtube.com/channel/UC3R-xanNgtoa8b7gpVexVlA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3R-xanNgtoa8b7gpVexVlA"/>
+                <outline text="Fire of Learning" type="rss" htmlUrl="https://www.youtube.com/channel/UCbyE5OvaP4GJhKvPCXxjWvw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbyE5OvaP4GJhKvPCXxjWvw"/>
+                <outline text="Rogues Gallery Uncovered" type="rss" htmlUrl="https://www.youtube.com/channel/UC6NfCuHyH4Er0MTezxlfJwg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6NfCuHyH4Er0MTezxlfJwg"/>
+                <outline text="Scott Mannion" type="rss" htmlUrl="https://www.youtube.com/channel/UCI0ElVIlzlZU06ykWFHdb3g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCI0ElVIlzlZU06ykWFHdb3g"/>
+                <outline text="allmoderncons" type="rss" htmlUrl="https://api.bitchute.com/channel/allmoderncons/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/allmoderncons"/>
+                <outline text="Censored History" type="rss" htmlUrl="https://api.bitchute.com/channel/censored_history/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/Censored_History"/>
+                <outline text="Expedition Bible" type="rss" htmlUrl="https://www.youtube.com/channel/UC5g_Zgi8TOC6GvvnxzQCY2w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5g_Zgi8TOC6GvvnxzQCY2w"/>
+                <outline text="Dan Davis History" type="rss" htmlUrl="https://www.youtube.com/channel/UCUVwT8zcS5Z_rYXnpomlbfg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUVwT8zcS5Z_rYXnpomlbfg"/>
+                <outline text="Spartan761 - History" type="rss" htmlUrl="https://www.youtube.com/channel/UCxlfNfUd_TByxC1s3S68EFA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxlfNfUd_TByxC1s3S68EFA"/>
+                <outline text="Military History Visualized" type="rss" htmlUrl="https://www.youtube.com/channel/UCK09g6gYGMvU-0x1VCF1hgA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK09g6gYGMvU-0x1VCF1hgA"/>
+                <outline text="TheUntoldPast" type="rss" htmlUrl="https://www.youtube.com/channel/UC6VlKJY0O739oWyVfWB-nkg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6VlKJY0O739oWyVfWB-nkg"/>
+            </outline>
+            <outline text="Videos - Natural Sciences">
+                <outline text="styropyro" type="rss" htmlUrl="https://www.youtube.com/channel/UCJYJgj7rzsn0vdR7fkgjuIA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"/>
+                <outline text="Mathologer" type="rss" htmlUrl="https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1_uAIS3r8Vu6JjXWvastJg"/>
+                <outline text="3Blue1Brown" type="rss" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw"/>
+                <outline text="The Science Asylum" type="rss" htmlUrl="https://www.youtube.com/channel/UCXgNowiGxwwnLeQ7DXTwXPg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXgNowiGxwwnLeQ7DXTwXPg"/>
+                <outline text="ThunderboltsProject" type="rss" htmlUrl="https://www.youtube.com/channel/UCvHqXK_Hz79tjqRosK4tWYA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvHqXK_Hz79tjqRosK4tWYA"/>
+                <outline text="Zach Star" type="rss" htmlUrl="https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpCSAcbqs-sjEVfk_hMfY9w"/>
+                <outline text="Numberphile" type="rss" htmlUrl="https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A"/>
+                <outline text="Tom Scott" type="rss" htmlUrl="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A"/>
+                <outline text="New Mind" type="rss" htmlUrl="https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_Y-BKzq1uW_2rexWkUzlA"/>
+                <outline text="carykh" type="rss" htmlUrl="https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9z7EZAbkphEMg0SP7rw44A"/>
+                <outline text="Sabine Hossenfelder" type="rss" htmlUrl="https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw"/>
+            </outline>
+        </outline>
+    </body>
+</opml>

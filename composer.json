@@ -1,0 +1,109 @@
+{
+    "$schema": "https://getcomposer.org/schema.json",
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The skeleton application for the Laravel framework.",
+    "keywords": [
+        "laravel",
+        "framework"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.3",
+        "ext-xml": "*",
+        "blade-ui-kit/blade-heroicons": "^2.6",
+        "filament/filament": "^3.3.29",
+        "intervention/image-laravel": "^1.5.6",
+        "laravel/framework": "^12.19.3",
+        "laravel/horizon": "^5.33",
+        "laravel/octane": "^2.12",
+        "laravel/pulse": "^1.4.2",
+        "laravel/socialite": "^5.21",
+        "laravel/tinker": "^2.10.1",
+        "livewire/livewire": "^3.6.3",
+        "maize-tech/laravel-markable": "^2.3.1",
+        "nunomaduro/essentials": "^0.1",
+        "resend/resend-php": "^0.15.2",
+        "saloonphp/saloon": "^3.0",
+        "shweshi/opengraph": "^1.1.5",
+        "spatie/crawler": "^8.4.3",
+        "spatie/laravel-data": "^4.17",
+        "spatie/laravel-feed": "^4.4",
+        "spatie/laravel-honeypot": "^4.6.1",
+        "spatie/laravel-sitemap": "^7.3.6",
+        "spatie/livewire-filepond": "^1.5",
+        "spiral/roadrunner-cli": "^2.6.0",
+        "spiral/roadrunner-http": "^3.3.0",
+        "willvincent/feeds": "^2.7"
+    },
+    "require-dev": {
+        "barryvdh/laravel-debugbar": "^3.15.4",
+        "fakerphp/faker": "^1.24.1",
+        "laravel/breeze": "^2.3.7",
+        "laravel/pail": "^1.2.3",
+        "laravel/pint": "^1.22.1",
+        "laravel/sail": "^1.43.1",
+        "mockery/mockery": "^1.6.12",
+        "nunomaduro/collision": "^8.8.2",
+        "pestphp/pest": "^3.8.2",
+        "pestphp/pest-plugin-laravel": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories/",
+            "Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "post-autoload-dump": [
+            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
+            "@php artisan package:discover --ansi",
+            "@php artisan filament:upgrade"
+        ],
+        "post-update-cmd": [
+            "@php artisan vendor:publish --tag=laravel-assets --ansi --force"
+        ],
+        "post-root-package-install": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ],
+        "post-create-project-cmd": [
+            "@php artisan key:generate --ansi",
+            "@php -r \"file_exists('database/database.sqlite') || touch('database/database.sqlite');\"",
+            "@php artisan migrate --graceful --ansi"
+        ],
+        "dev": [
+            "Composer\\Config::disableProcessTimeout",
+            "npx concurrently -c \"#93c5fd,#fdba74\" \"php artisan serve\" \"npm run dev\" --names=server,vite"
+        ],
+        "pest": "pest",
+        "pint": "pint",
+        "test:dirty": "@pest --dirty",
+        "test:pint": "@pint --test",
+        "test": [
+            "@test:pint",
+            "@pest --parallel"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": []
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true,
+            "php-http/discovery": true
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
