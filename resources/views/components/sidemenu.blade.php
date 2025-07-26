@@ -5,12 +5,7 @@
                 wire:navigate
                 href="{{ auth()->check() ? route('materials.index') : route('home') }}"
             >
-                <img
-                    loading="lazy"
-                    class="sm:w-52 w-48"
-                    src="{{ asset('img/logo.png') }}"
-                    alt="Larasense logo"
-                >
+              Laravel News Aggregator
             </a>
         </figure>
         <div class="space-y-4">

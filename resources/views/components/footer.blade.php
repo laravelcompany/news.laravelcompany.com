@@ -5,7 +5,7 @@
                 <img
                     loading="lazy"
                     class="w-52"
-                    src="{{ asset('img/logo.png') }}"
+                    src="{{ asset('img/logo.svg') }}"
                     alt="Larasense logo"
                 >
             </figure>

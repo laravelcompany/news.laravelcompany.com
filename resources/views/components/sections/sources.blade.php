@@ -14,14 +14,7 @@
                     alt="Laravel's logo"
                 >
             </div>
-            <div>
-                <img
-                    loading="lazy"
-                    class="scale-75"
-                    src="{{ asset('sources/secondary-logo.svg') }}"
-                    alt="Laracast's logo"
-                >
-            </div>
+
             <div>
                 <img
                     loading="lazy"

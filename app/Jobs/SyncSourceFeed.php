@@ -41,7 +41,10 @@ class SyncSourceFeed implements ShouldQueue
 
             ProcessFeedItem::dispatch($this->source, $item);
 
-            //dispatch
+            //dispatch a job to fetch the image for the material
+            FetchAndUpdateMaterialImage::dispatch($material);
+
+            //dispatch a job 
         }
 
         $this->source->updateLastCheckedAt();

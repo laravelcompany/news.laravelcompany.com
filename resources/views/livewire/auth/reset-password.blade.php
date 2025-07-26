@@ -8,7 +8,7 @@
                 <img
                     loading="lazy"
                     class="w-48 mx-auto"
-                    src="{{ asset('img/logo.png') }}"
+                    src="{{ asset('img/logo.svg') }}"
                     alt="Larasense logo"
                 >
             </a>

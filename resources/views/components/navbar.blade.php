@@ -66,18 +66,14 @@
                 href="{{ route('home') }}"
                 class="btn btn-ghost text-xl hover:!bg-inherit max-lg:hidden"
             >
-                <img
-                    loading="lazy"
-                    class="sm:w-52 w-48"
-                    src="{{ asset('img/logo.png') }}"
-                    alt="Larasense logo"
-                >
+            Laravel News Aggregator
             </a>
         </div>
         <div class="navbar-center">
             <ul class="menu menu-horizontal px-1 font-semibold hidden lg:flex">
                 <li>
                     <a
+                    title="Developers news"
                         class="hover:bg-accent dark:hover:bg-stone-900 active:!bg-accent dark:active:!bg-stone-900 focus:!bg-accent dark:focus:!bg-stone-900 active:!text-inherit"
                         href="{{ route('home') }}"
                         wire:navigate
@@ -87,8 +83,9 @@
                 </li>
                 <li>
                     <a
+                    title="Our sources that are alternative to the mainstream media"
                         class="hover:bg-accent dark:hover:bg-stone-900 active:!bg-accent dark:active:!bg-stone-900 focus:!bg-accent dark:focus:!bg-stone-900 active:!text-inherit"
-                        href="{{ route('home') }}#sources"
+                        href="{{ route('sources') }}"
                     >
                         Sources
                     </a>
@@ -115,12 +112,7 @@
                 href="{{ route('home') }}"
                 class="btn btn-ghost text-xl hover:!bg-inherit lg:hidden"
             >
-                <img
-                    loading="lazy"
-                    class="sm:w-52 max-w-40"
-                    src="{{ asset('img/logo.png') }}"
-                    alt="Larasense logo"
-                >
+                Laravel News Aggregator
             </a>
         </div>
         <div class="navbar-end gap-x-2">

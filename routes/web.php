@@ -11,6 +11,7 @@ require __DIR__.'/auth.php';
 Route::view('/', 'home')->name('home')->middleware('guest');
 
 Route::get('home', Livewire\Materials\Index::class)->name('materials.index');
+Route::get('sources', Livewire\Materials\Index::class)->name('sources');
 Route::get('rss', Livewire\Materials\Index::class)->name('materials.index');
 Route::feeds();
 
