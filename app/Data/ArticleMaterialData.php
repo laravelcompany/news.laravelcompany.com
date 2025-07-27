@@ -4,8 +4,10 @@ declare(strict_types=1);
 
 namespace App\Data;
 
+use App\Services\FullArticleService;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Carbon;
+use Illuminate\Support\Facades\Log;
 use shweshi\OpenGraph\Facades\OpenGraphFacade;
 use SimplePie\Item;
 
@@ -20,7 +22,7 @@ class ArticleMaterialData extends MaterialData
             url: $item->get_link(),
             publishedAt: Carbon::parse($item->get_date())->timezone(config('app.timezone')),
             description: static::getDescription($openGraph, $item),
-            body: self::getFullContent() ?? $item->get_content(),
+            body: $item->get_content(),
             author: $item->get_author()?->get_name(),
             imageUrl: static::getImageUrl($openGraph, $item),
             feedId: $item->get_id(true),
@@ -51,9 +53,5 @@ class ArticleMaterialData extends MaterialData
         return $imageUrl ?? null;
     }
 
-    private static function getFullContent(string $url):string
-    {
-        //todo implement this
-        return  "";
-    }
+
 }

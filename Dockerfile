@@ -63,10 +63,7 @@ RUN cp .env.example .env
 # Install PHP dependencies
 RUN composer install --no-interaction --no-suggest --ignore-platform-req=ext-gd --ignore-platform-req=ext-exif --ignore-platform-req=ext-ftp
 
-# Install and build Node.js assets
-RUN npm install --legacy-peer-deps
 
-RUN npm run build
 
 RUN php artisan key:generate
 # Configure Supervisor
@@ -74,6 +71,10 @@ COPY ./docker/supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 # Set working directory back to application root
 WORKDIR /var/www/
+# Install and build Node.js assets
+RUN npm install --legacy-peer-deps
+RUN npm run build
+RUN touch /var/www/database.sqlite
 COPY . .
 
 # Install Python packages

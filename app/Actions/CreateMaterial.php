@@ -8,7 +8,12 @@ use App\Data\MaterialData;
 use App\Jobs\FetchAndUpdateMaterialImage;
 use App\Models\Material;
 use App\Models\Source;
+use App\Services\BackendService;
+use App\Services\FullArticleService;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
+use Saloon\Exceptions\Request\FatalRequestException;
+use Saloon\Exceptions\Request\RequestException;
 
 class CreateMaterial
 {
@@ -18,14 +23,17 @@ class CreateMaterial
             return $material;
         }
 
+
+
         return DB::transaction(function () use ($source, $materialData): Material {
+
             $material = $source
                 ->materials()
                 ->create([
                     'title' => $materialData->title,
                     'description' => $materialData->description,
                     'body' => $materialData->body,
-                    'author' => $materialData->author,
+                    'author' => $materialData->author ?? "Laravel Agency",
                     'published_at' => $materialData->publishedAt,
                     'feed_id' => $materialData->feedId,
                     'duration' => $materialData->duration,
@@ -38,7 +46,32 @@ class CreateMaterial
                 FetchAndUpdateMaterialImage::dispatch($material)->afterCommit();
             }
 
+            $this->updateMaterialWithBackendApi($material);
+
             return $material;
         });
     }
+
+
+    // do the logic for the extract full article
+
+    /**
+     * @throws FatalRequestException
+     * @throws RequestException
+     * @throws \JsonException
+     */
+    public function updateMaterialWithBackendApi(Material $material): void
+    {
+        $service = new BackendService();
+        $response = $service->getFullArticle($material->url);
+        Log::info('response', [$response]);
+        if (filled($response)) {
+            //change this to right field
+            $material->update(
+                ['body' => $response['data']['html']]);
+        }
+    }
+
+
+
 }

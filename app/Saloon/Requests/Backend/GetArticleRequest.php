@@ -2,14 +2,15 @@
 
 namespace App\Saloon\Requests\Backend;
 
-
-
+use Saloon\Contracts\Body\HasBody;
 use Saloon\Enums\Method;
 use Saloon\Http\Request;
+use Saloon\Traits\Body\HasJsonBody;
 
-
-class GetArticleRequest extends Request
+class GetArticleRequest extends Request implements HasBody
 {
+    use HasJsonBody;
+
     protected Method $method = Method::POST;
 
     public function __construct(
@@ -25,7 +26,7 @@ class GetArticleRequest extends Request
             'TIME',
             'QUANTITY'
         ],
-        private readonly int $minLength = 1
+        private readonly int $minLength = 100
     ) {}
 
     public function resolveEndpoint(): string

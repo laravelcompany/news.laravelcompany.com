@@ -9,6 +9,7 @@ use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Queue\Queueable;
 use Illuminate\Support\Carbon;
 use willvincent\Feeds\Facades\FeedsFacade;
+use App\Services\FullArticleService;
 
 class SyncSourceFeed implements ShouldQueue
 {
@@ -41,10 +42,6 @@ class SyncSourceFeed implements ShouldQueue
 
             ProcessFeedItem::dispatch($this->source, $item);
 
-            //dispatch a job to fetch the image for the material
-            FetchAndUpdateMaterialImage::dispatch($material);
-
-            //dispatch a job 
         }
 
         $this->source->updateLastCheckedAt();
